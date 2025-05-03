@@ -1,6 +1,6 @@
 
 GuildSheetData = {
-["lastExportTime"] = 1746141751,
+["lastExportTime"] = 1746141752,
 ["ignoreRanks"] = {
 ["Social"] = true,
 },
