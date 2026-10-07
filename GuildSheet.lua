@@ -1,9 +1,9 @@
 
 GuildSheetData = {
 ["mainRanks"] = {
-["trial raider"] = true,
-["raider"] = true,
 ["officer"] = true,
+["raider"] = true,
+["trial raider"] = true,
 },
 ["altRanks"] = {
 ["raider alt"] = true,
@@ -115,7 +115,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PRIEST",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Ayije",
@@ -123,7 +123,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "MONK",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNet",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Ayije",
@@ -131,7 +131,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNeth",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Ayije",
@@ -139,7 +139,7 @@ GuildSheetData = {
 ["rank"] = "Raider",
 ["class"] = "DRUID",
 ["rankIndex"] = 3,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingN",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Ayije",
@@ -147,7 +147,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "EVOKER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNeth",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Belle",
@@ -275,7 +275,7 @@ GuildSheetData = {
 ["rank"] = "Raider",
 ["class"] = "WARRIOR",
 ["rankIndex"] = 3,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNet",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Chapper",
@@ -283,7 +283,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "HUNTER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twistin",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Chapper",
@@ -291,7 +291,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "DEATHKNIGHT",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twisting",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Chapper",
@@ -299,7 +299,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "DEMONHUNTER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twistin",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Chapper",
@@ -307,7 +307,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "WARRIOR",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twistin",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Chapper",
@@ -315,7 +315,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "WARRIOR",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingN",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Dalote",
@@ -411,7 +411,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "MONK",
 ["rankIndex"] = 5,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Dynamites",
@@ -419,7 +419,7 @@ GuildSheetData = {
 ["rank"] = "Trial Raider",
 ["class"] = "SHAMAN",
 ["rankIndex"] = 4,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Dynamites",
@@ -427,7 +427,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PRIEST",
 ["rankIndex"] = 5,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Dynamites",
@@ -435,7 +435,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Dynamites",
@@ -443,7 +443,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "DRUID",
 ["rankIndex"] = 5,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Fahl",
@@ -459,7 +459,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "DRUID",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNethe",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Fahl",
@@ -475,7 +475,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNethe",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Fahl",
@@ -531,7 +531,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Flay",
@@ -571,7 +571,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Flay",
@@ -651,7 +651,7 @@ GuildSheetData = {
 ["rank"] = "Raider",
 ["class"] = "PALADIN",
 ["rankIndex"] = 3,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Flay",
@@ -659,7 +659,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Flay",
@@ -683,7 +683,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "SHAMAN",
 ["rankIndex"] = 5,
-["realm"] = "BurningLegion",
+["realm"] = "BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion",
 },
 {
 ["note"] = "Garo",
@@ -707,7 +707,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNethe",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Garo",
@@ -803,7 +803,7 @@ GuildSheetData = {
 ["rank"] = "Trial Raider",
 ["class"] = "MAGE",
 ["rankIndex"] = 4,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Lonely",
@@ -811,7 +811,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PRIEST",
 ["rankIndex"] = 5,
-["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
+["realm"] = "Kazzak",
 },
 {
 ["note"] = "Mada",
@@ -819,7 +819,7 @@ GuildSheetData = {
 ["rank"] = "Trial Raider",
 ["class"] = "DEMONHUNTER",
 ["rankIndex"] = 4,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twi",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Mada",
@@ -827,7 +827,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "DEMONHUNTER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twisting",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Mada",
@@ -835,7 +835,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "HUNTER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingN",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Mandur",
@@ -907,7 +907,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "MONK",
 ["rankIndex"] = 5,
-["realm"] = "BurningLegion",
+["realm"] = "BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion",
 },
 {
 ["note"] = "Mistu",
@@ -915,7 +915,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "WARRIOR",
 ["rankIndex"] = 5,
-["realm"] = "BurningLegion",
+["realm"] = "BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion",
 },
 {
 ["note"] = "Mistu",
@@ -923,7 +923,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "BurningLegion",
+["realm"] = "BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion",
 },
 {
 ["note"] = "Mistu",
@@ -931,7 +931,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "DRUID",
 ["rankIndex"] = 5,
-["realm"] = "BurningLegion",
+["realm"] = "BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion",
 },
 {
 ["note"] = "Mistu",
@@ -939,7 +939,7 @@ GuildSheetData = {
 ["rank"] = "Raider",
 ["class"] = "DEATHKNIGHT",
 ["rankIndex"] = 3,
-["realm"] = "BurningLegion",
+["realm"] = "BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion-BurningLegion",
 },
 {
 ["note"] = "Nish",
@@ -971,7 +971,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "DEMONHUNTER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNe",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Nish",
@@ -987,7 +987,7 @@ GuildSheetData = {
 ["rank"] = "Raider",
 ["class"] = "MONK",
 ["rankIndex"] = 3,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNeth",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Panda",
@@ -1003,7 +1003,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "MAGE",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNeth",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Panda",
@@ -1011,7 +1011,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "SHAMAN",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twistin",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Panda",
@@ -1027,7 +1027,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "EVOKER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingN",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Panda",
@@ -1035,7 +1035,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "WARRIOR",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Panda",
@@ -1043,7 +1043,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNet",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Panda",
@@ -1115,7 +1115,7 @@ GuildSheetData = {
 ["rank"] = "Raider",
 ["class"] = "MAGE",
 ["rankIndex"] = 3,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twistin",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Pricey",
@@ -1123,7 +1123,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "ROGUE",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twistin",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Pricey",
@@ -1139,7 +1139,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PRIEST",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twistin",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Pricey",
@@ -1163,7 +1163,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "SHAMAN",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twistin",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Replair",
@@ -1235,7 +1235,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "SHAMAN",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twisting",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Seren",
@@ -1243,7 +1243,7 @@ GuildSheetData = {
 ["rank"] = "Raider",
 ["class"] = "PRIEST",
 ["rankIndex"] = 3,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twisting",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Seren",
@@ -1251,7 +1251,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "EVOKER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twistin",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Seren",
@@ -1259,7 +1259,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "DRUID",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNe",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Seren",
@@ -1267,7 +1267,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "MONK",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twisting",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Varas",
@@ -1323,7 +1323,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "MONK",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twisting",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Worst",
@@ -1347,7 +1347,7 @@ GuildSheetData = {
 ["rank"] = "Trial Raider",
 ["class"] = "DEATHKNIGHT",
 ["rankIndex"] = 4,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNet",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Worst",
@@ -1355,7 +1355,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "WARLOCK",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNethe",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Worst",
@@ -1363,7 +1363,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNe",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Worst",
@@ -1371,7 +1371,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "HUNTER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNeth",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Worst",
@@ -1379,7 +1379,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "WARRIOR",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNet",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Worst",
@@ -1387,7 +1387,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "MAGE",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingN",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Worst",
@@ -1403,7 +1403,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "EVOKER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-Twisting",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Worst",
@@ -1411,7 +1411,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "ROGUE",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNeth",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Worst",
@@ -1419,7 +1419,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "DEMONHUNTER",
 ["rankIndex"] = 5,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNet",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Wort",
@@ -1491,7 +1491,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "WARLOCK",
 ["rankIndex"] = 5,
-["realm"] = "Ragnaros-Ragnaros-Ragnaros-Ragnaros-Ragnaros",
+["realm"] = "Ragnaros",
 },
 {
 ["note"] = "Zovac",
@@ -1499,7 +1499,7 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "WARLOCK",
 ["rankIndex"] = 5,
-["realm"] = "Ragnaros-Ragnaros-Ragnaros-Ragnaros-Ragnaros",
+["realm"] = "Ragnaros",
 },
 {
 ["note"] = "Zovac",
@@ -1507,7 +1507,7 @@ GuildSheetData = {
 ["rank"] = "Raider",
 ["class"] = "WARLOCK",
 ["rankIndex"] = 3,
-["realm"] = "TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether-TwistingNether",
+["realm"] = "TwistingNether",
 },
 {
 ["note"] = "Zovac",
@@ -1515,17 +1515,17 @@ GuildSheetData = {
 ["rank"] = "Raider Alt",
 ["class"] = "WARLOCK",
 ["rankIndex"] = 5,
-["realm"] = "Ragnaros-Ragnaros-Ragnaros-Ragnaros-Ragnaros",
+["realm"] = "Ragnaros",
 },
 },
 ["requiredRanks"] = {
 ["officer alt"] = true,
-["raider"] = true,
+["officer"] = true,
 ["trial raider"] = true,
 ["raider alt"] = true,
-["officer"] = true,
+["raider"] = true,
 },
-["lastExportTime"] = 1791355034,
+["lastExportTime"] = 1791399316,
 ["exportHours"] = 6,
 ["guildName"] = "Evolve",
 ["minimap"] = {
