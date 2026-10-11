@@ -408,7 +408,7 @@ GuildSheetData = {
 {
 ["note"] = "Dynamites",
 ["name"] = "Voltiges",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "DRUID",
 ["rankIndex"] = 5,
 ["rank"] = "Raider Alt",
@@ -416,7 +416,7 @@ GuildSheetData = {
 {
 ["note"] = "Dynamites",
 ["name"] = "Dynamites",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "SHAMAN",
 ["rankIndex"] = 4,
 ["rank"] = "Trial Raider",
@@ -424,7 +424,7 @@ GuildSheetData = {
 {
 ["note"] = "Dynamites",
 ["name"] = "Zamdane",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "DEATHKNIGHT",
 ["rankIndex"] = 5,
 ["rank"] = "Raider Alt",
@@ -432,7 +432,7 @@ GuildSheetData = {
 {
 ["note"] = "Dynamites",
 ["name"] = "Xgang",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
 ["rank"] = "Raider Alt",
@@ -440,7 +440,7 @@ GuildSheetData = {
 {
 ["note"] = "Dynamites",
 ["name"] = "Convok",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "PRIEST",
 ["rankIndex"] = 5,
 ["rank"] = "Raider Alt",
@@ -448,7 +448,7 @@ GuildSheetData = {
 {
 ["note"] = "Dynamites",
 ["name"] = "Pïtchoune",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "MONK",
 ["rankIndex"] = 5,
 ["rank"] = "Raider Alt",
@@ -512,7 +512,7 @@ GuildSheetData = {
 {
 ["note"] = "Flay",
 ["name"] = "Flaypalatwo",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
 ["rank"] = "Raider Alt",
@@ -520,7 +520,7 @@ GuildSheetData = {
 {
 ["note"] = "Flay",
 ["name"] = "Flaypala",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "PALADIN",
 ["rankIndex"] = 3,
 ["rank"] = "Raider",
@@ -536,7 +536,7 @@ GuildSheetData = {
 {
 ["note"] = "Flay",
 ["name"] = "Flayfrog",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
 ["rank"] = "Raider Alt",
@@ -624,7 +624,7 @@ GuildSheetData = {
 {
 ["note"] = "Flay",
 ["name"] = "Flayqt",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "PALADIN",
 ["rankIndex"] = 5,
 ["rank"] = "Raider Alt",
@@ -808,7 +808,7 @@ GuildSheetData = {
 {
 ["note"] = "Lonely",
 ["name"] = "Lonelý",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "MAGE",
 ["rankIndex"] = 4,
 ["rank"] = "Trial Raider",
@@ -816,7 +816,7 @@ GuildSheetData = {
 {
 ["note"] = "Lonely",
 ["name"] = "Lonelyshadow",
-["realm"] = "Kazzak",
+["realm"] = "Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak-Kazzak",
 ["class"] = "PRIEST",
 ["rankIndex"] = 5,
 ["rank"] = "Raider Alt",
@@ -1573,7 +1573,7 @@ GuildSheetData = {
 ["raider alt"] = true,
 ["officer"] = true,
 },
-["lastExportTime"] = 1791709822,
+["lastExportTime"] = 1791739892,
 ["exportHours"] = 6,
 ["guildName"] = "Evolve",
 ["minimap"] = {
