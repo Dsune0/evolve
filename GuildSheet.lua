@@ -3183,6 +3183,13 @@ GuildSheetData = {
 ["guild"] = "evolve@draenor",
 ["started"] = 1792954249,
 ["id"] = 1,
+["reason"] = "No unpaid payout matched this character's guild note.",
+["acceptedOffer"] = {
+["recipient"] = "Dolanz-TarrenMill",
+["outgoing"] = 0,
+["incoming"] = 0,
+["timestamp"] = 1792954249,
+},
 ["offers"] = {
 {
 ["recipient"] = "Dolanz-TarrenMill",
@@ -3191,15 +3198,8 @@ GuildSheetData = {
 ["incoming"] = 0,
 },
 },
+["state"] = "Completed",
 ["outgoing"] = 0,
-["reason"] = "No unpaid payout matched this character's guild note.",
-["updated"] = 1792954251,
-["acceptedOffer"] = {
-["recipient"] = "Dolanz-TarrenMill",
-["outgoing"] = 0,
-["incoming"] = 0,
-["timestamp"] = 1792954249,
-},
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -3250,7 +3250,7 @@ GuildSheetData = {
 ["playerAccepted"] = true,
 ["targetAccepted"] = true,
 ["incoming"] = 0,
-["state"] = "Completed",
+["updated"] = 1792954251,
 ["currentReadable"] = true,
 },
 {
@@ -3260,6 +3260,23 @@ GuildSheetData = {
 ["started"] = 1792957077,
 ["currentReadable"] = true,
 ["recipient"] = "Krakón-TarrenMill",
+["payoutID"] = 30,
+["offers"] = {
+{
+["recipient"] = "Krakón-TarrenMill",
+["outgoing"] = 0,
+["timestamp"] = 1792957077,
+["incoming"] = 0,
+},
+{
+["recipient"] = "Krakón-TarrenMill",
+["outgoing"] = 3500000000,
+["timestamp"] = 1792957078,
+["incoming"] = 0,
+},
+},
+["updated"] = 1792957085,
+["incoming"] = 0,
 ["events"] = {
 "TRADE_SHOW",
 "TRADE_TARGET_ITEM_CHANGED",
@@ -3297,23 +3314,6 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
-["offers"] = {
-{
-["recipient"] = "Krakón-TarrenMill",
-["outgoing"] = 0,
-["timestamp"] = 1792957077,
-["incoming"] = 0,
-},
-{
-["recipient"] = "Krakón-TarrenMill",
-["outgoing"] = 3500000000,
-["timestamp"] = 1792957078,
-["incoming"] = 0,
-},
-},
-["updated"] = 1792957085,
-["outgoing"] = 3500000000,
-["payoutID"] = 30,
 ["id"] = 2,
 ["acceptedOffer"] = {
 ["recipient"] = "Krakón-TarrenMill",
@@ -3322,7 +3322,7 @@ GuildSheetData = {
 ["timestamp"] = 1792957078,
 },
 ["state"] = "Completed",
-["incoming"] = 0,
+["outgoing"] = 3500000000,
 ["targetAccepted"] = true,
 },
 {
@@ -3332,17 +3332,15 @@ GuildSheetData = {
 ["started"] = 1793223818,
 ["id"] = 3,
 ["currentReadable"] = true,
+["updated"] = 1793223819,
+["reason"] = "Guild changed during trade tracking.",
 ["state"] = "Unconfirmed",
-["offers"] = {
-{
+["acceptedOffer"] = {
 ["recipient"] = "Stabrica-TwistingNether",
 ["outgoing"] = 0,
-["incoming"] = 0,
 ["timestamp"] = 1793223818,
+["incoming"] = 0,
 },
-},
-["updated"] = 1793223819,
-["outgoing"] = 0,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -3381,13 +3379,15 @@ GuildSheetData = {
 ["incoming"] = 0,
 ["targetAccepted"] = false,
 ["playerAccepted"] = true,
-["acceptedOffer"] = {
+["outgoing"] = 0,
+["offers"] = {
+{
 ["recipient"] = "Stabrica-TwistingNether",
 ["outgoing"] = 0,
-["timestamp"] = 1793223818,
 ["incoming"] = 0,
+["timestamp"] = 1793223818,
 },
-["reason"] = "Guild changed during trade tracking.",
+},
 },
 {
 ["guild"] = "evolve@draenor",
@@ -3447,17 +3447,15 @@ GuildSheetData = {
 ["started"] = 1793223892,
 ["id"] = 6,
 ["currentReadable"] = true,
+["updated"] = 1793223893,
+["reason"] = "No unpaid payout matched this character's guild note.",
 ["state"] = "Completed",
-["offers"] = {
-{
+["acceptedOffer"] = {
 ["recipient"] = "Stabrica-TwistingNether",
 ["outgoing"] = 0,
-["incoming"] = 0,
 ["timestamp"] = 1793223892,
+["incoming"] = 0,
 },
-},
-["updated"] = 1793223893,
-["outgoing"] = 0,
 ["events"] = {
 "TRADE_SHOW",
 "TRADE_TARGET_ITEM_CHANGED",
@@ -3483,13 +3481,15 @@ GuildSheetData = {
 ["incoming"] = 0,
 ["targetAccepted"] = true,
 ["playerAccepted"] = true,
-["acceptedOffer"] = {
+["outgoing"] = 0,
+["offers"] = {
+{
 ["recipient"] = "Stabrica-TwistingNether",
 ["outgoing"] = 0,
-["timestamp"] = 1793223892,
 ["incoming"] = 0,
+["timestamp"] = 1793223892,
 },
-["reason"] = "No unpaid payout matched this character's guild note.",
+},
 },
 {
 ["recipient"] = "Femboyvoker-Draenor",
@@ -3498,17 +3498,15 @@ GuildSheetData = {
 ["started"] = 1793223906,
 ["id"] = 7,
 ["currentReadable"] = true,
+["updated"] = 1793223909,
+["reason"] = "No unpaid payout matched this character's guild note.",
 ["state"] = "Completed",
-["offers"] = {
-{
+["acceptedOffer"] = {
 ["recipient"] = "Femboyvoker-Draenor",
 ["outgoing"] = 0,
-["incoming"] = 0,
 ["timestamp"] = 1793223906,
+["incoming"] = 0,
 },
-},
-["updated"] = 1793223909,
-["outgoing"] = 0,
 ["events"] = {
 "TRADE_SHOW",
 "TRADE_TARGET_ITEM_CHANGED",
@@ -3547,13 +3545,15 @@ GuildSheetData = {
 ["incoming"] = 0,
 ["targetAccepted"] = false,
 ["playerAccepted"] = true,
-["acceptedOffer"] = {
+["outgoing"] = 0,
+["offers"] = {
+{
 ["recipient"] = "Femboyvoker-Draenor",
 ["outgoing"] = 0,
-["timestamp"] = 1793223906,
 ["incoming"] = 0,
+["timestamp"] = 1793223906,
 },
-["reason"] = "No unpaid payout matched this character's guild note.",
+},
 },
 {
 ["recipient"] = "Stabrica-TwistingNether",
@@ -3562,17 +3562,15 @@ GuildSheetData = {
 ["started"] = 1793223942,
 ["id"] = 8,
 ["currentReadable"] = true,
+["updated"] = 1793223944,
+["reason"] = "No unpaid payout matched this character's guild note.",
 ["state"] = "Completed",
-["offers"] = {
-{
+["acceptedOffer"] = {
 ["recipient"] = "Stabrica-TwistingNether",
 ["outgoing"] = 0,
-["incoming"] = 0,
 ["timestamp"] = 1793223942,
+["incoming"] = 0,
 },
-},
-["updated"] = 1793223944,
-["outgoing"] = 0,
 ["events"] = {
 "TRADE_SHOW",
 "TRADE_TARGET_ITEM_CHANGED",
@@ -3590,13 +3588,15 @@ GuildSheetData = {
 ["incoming"] = 0,
 ["targetAccepted"] = false,
 ["playerAccepted"] = true,
-["acceptedOffer"] = {
+["outgoing"] = 0,
+["offers"] = {
+{
 ["recipient"] = "Stabrica-TwistingNether",
 ["outgoing"] = 0,
-["timestamp"] = 1793223942,
 ["incoming"] = 0,
+["timestamp"] = 1793223942,
 },
-["reason"] = "No unpaid payout matched this character's guild note.",
+},
 },
 {
 ["recipient"] = "Femboyvoker-Draenor",
@@ -3605,17 +3605,15 @@ GuildSheetData = {
 ["started"] = 1793223944,
 ["id"] = 9,
 ["currentReadable"] = true,
+["updated"] = 1793223945,
+["reason"] = "No unpaid payout matched this character's guild note.",
 ["state"] = "Completed",
-["offers"] = {
-{
+["acceptedOffer"] = {
 ["recipient"] = "Femboyvoker-Draenor",
 ["outgoing"] = 0,
-["incoming"] = 0,
 ["timestamp"] = 1793223944,
+["incoming"] = 0,
 },
-},
-["updated"] = 1793223945,
-["outgoing"] = 0,
 ["events"] = {
 "TRADE_SHOW",
 "TRADE_TARGET_ITEM_CHANGED",
@@ -3640,13 +3638,15 @@ GuildSheetData = {
 ["incoming"] = 0,
 ["targetAccepted"] = true,
 ["playerAccepted"] = true,
-["acceptedOffer"] = {
+["outgoing"] = 0,
+["offers"] = {
+{
 ["recipient"] = "Femboyvoker-Draenor",
 ["outgoing"] = 0,
-["timestamp"] = 1793223944,
 ["incoming"] = 0,
+["timestamp"] = 1793223944,
 },
-["reason"] = "No unpaid payout matched this character's guild note.",
+},
 },
 {
 ["recipient"] = "Coffeep-Blackrock",
@@ -3654,7 +3654,7 @@ GuildSheetData = {
 ["guild"] = "evolve@draenor",
 ["started"] = 1793299930,
 ["id"] = 10,
-["state"] = "Unconfirmed",
+["updated"] = 1793741815,
 ["offers"] = {
 {
 ["recipient"] = "Coffeep-Blackrock",
@@ -3669,7 +3669,7 @@ GuildSheetData = {
 ["timestamp"] = 1793299932,
 },
 },
-["updated"] = 1793741815,
+["state"] = "Unconfirmed",
 ["outgoing"] = 5586210000,
 ["events"] = {
 "TRADE_SHOW",
@@ -3734,7 +3734,7 @@ GuildSheetData = {
 ["started"] = 1793299949,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Dolanw-TarrenMill",
@@ -3750,16 +3750,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793299958,
-["incoming"] = 0,
-["payoutID"] = 106,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Dolanw-TarrenMill",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793299950,
-["incoming"] = 0,
-},
-["id"] = 12,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -3776,6 +3767,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Dolanw-TarrenMill",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793299950,
+["incoming"] = 0,
+},
+["id"] = 12,
+["payoutID"] = 106,
 ["recipient"] = "Dolanw-TarrenMill",
 },
 {
@@ -3785,7 +3785,7 @@ GuildSheetData = {
 ["started"] = 1793299970,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Fahlxc-TarrenMill",
@@ -3801,16 +3801,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793299976,
-["incoming"] = 0,
-["payoutID"] = 108,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Fahlxc-TarrenMill",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793299971,
-["incoming"] = 0,
-},
-["id"] = 13,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -3848,6 +3839,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Fahlxc-TarrenMill",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793299971,
+["incoming"] = 0,
+},
+["id"] = 13,
+["payoutID"] = 108,
 ["recipient"] = "Fahlxc-TarrenMill",
 },
 {
@@ -3857,7 +3857,7 @@ GuildSheetData = {
 ["started"] = 1793300357,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Entelligans-Blackhand",
@@ -3873,16 +3873,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793300363,
-["incoming"] = 0,
-["payoutID"] = 107,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Entelligans-Blackhand",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793300358,
-["incoming"] = 0,
-},
-["id"] = 14,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -3920,6 +3911,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Entelligans-Blackhand",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793300358,
+["incoming"] = 0,
+},
+["id"] = 14,
+["payoutID"] = 107,
 ["recipient"] = "Entelligans-Blackhand",
 },
 {
@@ -3929,7 +3929,7 @@ GuildSheetData = {
 ["started"] = 1793300388,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Xilam-Blackrock",
@@ -3945,16 +3945,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793300393,
-["incoming"] = 0,
-["payoutID"] = 128,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Xilam-Blackrock",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793300389,
-["incoming"] = 0,
-},
-["id"] = 15,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -3992,6 +3983,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Xilam-Blackrock",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793300389,
+["incoming"] = 0,
+},
+["id"] = 15,
+["payoutID"] = 128,
 ["recipient"] = "Xilam-Blackrock",
 },
 {
@@ -4001,15 +4001,28 @@ GuildSheetData = {
 ["started"] = 1793300395,
 ["id"] = 16,
 ["currentReadable"] = false,
-["updated"] = 1793300401,
-["reason"] = "Trade identity or money was unavailable.",
 ["state"] = "Cancelled",
-["acceptedOffer"] = {
+["offers"] = {
+{
+["recipient"] = "Sadboyhorse-TwistingNether",
+["outgoing"] = 0,
+["incoming"] = 0,
+["timestamp"] = 1793300395,
+},
+{
 ["recipient"] = "Sadboyhorse-TwistingNether",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793300396,
 ["incoming"] = 0,
+["timestamp"] = 1793300396,
 },
+{
+["outgoing"] = 0,
+["incoming"] = 0,
+["timestamp"] = 1793300401,
+},
+},
+["updated"] = 1793300401,
+["outgoing"] = 0,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4030,26 +4043,13 @@ GuildSheetData = {
 ["incoming"] = 0,
 ["targetAccepted"] = false,
 ["playerAccepted"] = true,
-["outgoing"] = 0,
-["offers"] = {
-{
-["recipient"] = "Sadboyhorse-TwistingNether",
-["outgoing"] = 0,
-["incoming"] = 0,
-["timestamp"] = 1793300395,
-},
-{
+["acceptedOffer"] = {
 ["recipient"] = "Sadboyhorse-TwistingNether",
 ["outgoing"] = 5586210000,
-["incoming"] = 0,
 ["timestamp"] = 1793300396,
-},
-{
-["outgoing"] = 0,
 ["incoming"] = 0,
-["timestamp"] = 1793300401,
 },
-},
+["reason"] = "Trade identity or money was unavailable.",
 },
 {
 ["playerAccepted"] = true,
@@ -4058,7 +4058,7 @@ GuildSheetData = {
 ["started"] = 1793300533,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Nerdshockzy-Blackhand",
@@ -4074,16 +4074,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793300545,
-["incoming"] = 0,
-["payoutID"] = 118,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Nerdshockzy-Blackhand",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793300535,
-["incoming"] = 0,
-},
-["id"] = 17,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4100,6 +4091,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Nerdshockzy-Blackhand",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793300535,
+["incoming"] = 0,
+},
+["id"] = 17,
+["payoutID"] = 118,
 ["recipient"] = "Nerdshockzy-Blackhand",
 },
 {
@@ -4109,7 +4109,7 @@ GuildSheetData = {
 ["started"] = 1793300548,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Lonelyhunt-Kazzak",
@@ -4125,16 +4125,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793300554,
-["incoming"] = 0,
-["payoutID"] = 115,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Lonelyhunt-Kazzak",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793300549,
-["incoming"] = 0,
-},
-["id"] = 18,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4172,6 +4163,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Lonelyhunt-Kazzak",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793300549,
+["incoming"] = 0,
+},
+["id"] = 18,
+["payoutID"] = 115,
 ["recipient"] = "Lonelyhunt-Kazzak",
 },
 {
@@ -4267,7 +4267,7 @@ GuildSheetData = {
 ["started"] = 1793300587,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Relowindi-Blackhand",
@@ -4283,16 +4283,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793300592,
-["incoming"] = 0,
-["payoutID"] = 122,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Relowindi-Blackhand",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793300588,
-["incoming"] = 0,
-},
-["id"] = 21,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4330,6 +4321,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Relowindi-Blackhand",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793300588,
+["incoming"] = 0,
+},
+["id"] = 21,
+["payoutID"] = 122,
 ["recipient"] = "Relowindi-Blackhand",
 },
 {
@@ -4339,7 +4339,7 @@ GuildSheetData = {
 ["started"] = 1793300595,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Robinwl-Blackhand",
@@ -4355,16 +4355,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793300601,
-["incoming"] = 0,
-["payoutID"] = 123,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Robinwl-Blackhand",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793300596,
-["incoming"] = 0,
-},
-["id"] = 22,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4402,6 +4393,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Robinwl-Blackhand",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793300596,
+["incoming"] = 0,
+},
+["id"] = 22,
+["payoutID"] = 123,
 ["recipient"] = "Robinwl-Blackhand",
 },
 {
@@ -4411,7 +4411,7 @@ GuildSheetData = {
 ["started"] = 1793300604,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Bluhaze-Blackhand",
@@ -4427,16 +4427,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793300611,
-["incoming"] = 0,
-["payoutID"] = 113,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Bluhaze-Blackhand",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793300605,
-["incoming"] = 0,
-},
-["id"] = 23,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4453,6 +4444,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Bluhaze-Blackhand",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793300605,
+["incoming"] = 0,
+},
+["id"] = 23,
+["payoutID"] = 113,
 ["recipient"] = "Bluhaze-Blackhand",
 },
 {
@@ -4462,7 +4462,7 @@ GuildSheetData = {
 ["started"] = 1793301205,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Mistujuhu-BurningLegion",
@@ -4478,16 +4478,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793301221,
-["incoming"] = 0,
-["payoutID"] = 117,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Mistujuhu-BurningLegion",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793301206,
-["incoming"] = 0,
-},
-["id"] = 24,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4525,6 +4516,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Mistujuhu-BurningLegion",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793301206,
+["incoming"] = 0,
+},
+["id"] = 24,
+["payoutID"] = 117,
 ["recipient"] = "Mistujuhu-BurningLegion",
 },
 {
@@ -4534,7 +4534,7 @@ GuildSheetData = {
 ["started"] = 1793301664,
 ["currentReadable"] = true,
 ["targetAccepted"] = true,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Sadboyhorse-TwistingNether",
@@ -4550,16 +4550,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793301670,
-["incoming"] = 0,
-["payoutID"] = 124,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Sadboyhorse-TwistingNether",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793301665,
-["incoming"] = 0,
-},
-["id"] = 25,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4577,6 +4568,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Sadboyhorse-TwistingNether",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793301665,
+["incoming"] = 0,
+},
+["id"] = 25,
+["payoutID"] = 124,
 ["recipient"] = "Sadboyhorse-TwistingNether",
 },
 {
@@ -4585,7 +4585,7 @@ GuildSheetData = {
 ["guild"] = "evolve@draenor",
 ["started"] = 1793302320,
 ["id"] = 26,
-["state"] = "Unconfirmed",
+["updated"] = 1793741823,
 ["offers"] = {
 {
 ["recipient"] = "Gladrienn-Blackhand",
@@ -4600,7 +4600,7 @@ GuildSheetData = {
 ["timestamp"] = 1793302321,
 },
 },
-["updated"] = 1793741823,
+["state"] = "Unconfirmed",
 ["outgoing"] = 5586210000,
 ["events"] = {
 "TRADE_SHOW",
@@ -4663,7 +4663,7 @@ GuildSheetData = {
 ["started"] = 1793302330,
 ["currentReadable"] = true,
 ["targetAccepted"] = true,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Gyi-Blackhand",
@@ -4679,16 +4679,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793302336,
-["incoming"] = 0,
-["payoutID"] = 112,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Gyi-Blackhand",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793302331,
-["incoming"] = 0,
-},
-["id"] = 28,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4727,6 +4718,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Gyi-Blackhand",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793302331,
+["incoming"] = 0,
+},
+["id"] = 28,
+["payoutID"] = 112,
 ["recipient"] = "Gyi-Blackhand",
 },
 {
@@ -4736,7 +4736,7 @@ GuildSheetData = {
 ["started"] = 1793305229,
 ["currentReadable"] = true,
 ["targetAccepted"] = true,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Chapperr-TwistingNether",
@@ -4752,16 +4752,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793305235,
-["incoming"] = 0,
-["payoutID"] = 103,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Chapperr-TwistingNether",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793305230,
-["incoming"] = 0,
-},
-["id"] = 29,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4800,6 +4791,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Chapperr-TwistingNether",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793305230,
+["incoming"] = 0,
+},
+["id"] = 29,
+["payoutID"] = 103,
 ["recipient"] = "Chapperr-TwistingNether",
 },
 {
@@ -4809,7 +4809,7 @@ GuildSheetData = {
 ["started"] = 1793305519,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Ugotconvoked-Archimonde",
@@ -4825,16 +4825,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793305525,
-["incoming"] = 0,
-["payoutID"] = 120,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Ugotconvoked-Archimonde",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793305520,
-["incoming"] = 0,
-},
-["id"] = 30,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4851,6 +4842,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Ugotconvoked-Archimonde",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793305520,
+["incoming"] = 0,
+},
+["id"] = 30,
+["payoutID"] = 120,
 ["recipient"] = "Ugotconvoked-Archimonde",
 },
 {
@@ -4859,13 +4859,6 @@ GuildSheetData = {
 ["guild"] = "evolve@draenor",
 ["started"] = 1793557932,
 ["id"] = 31,
-["reason"] = "No unpaid payout matched this character's guild note.",
-["acceptedOffer"] = {
-["recipient"] = "Entelligenz-Blackhand",
-["outgoing"] = 0,
-["incoming"] = 0,
-["timestamp"] = 1793557932,
-},
 ["offers"] = {
 {
 ["recipient"] = "Entelligenz-Blackhand",
@@ -4874,8 +4867,15 @@ GuildSheetData = {
 ["incoming"] = 0,
 },
 },
-["state"] = "Completed",
 ["outgoing"] = 0,
+["reason"] = "No unpaid payout matched this character's guild note.",
+["updated"] = 1793557934,
+["acceptedOffer"] = {
+["recipient"] = "Entelligenz-Blackhand",
+["outgoing"] = 0,
+["incoming"] = 0,
+["timestamp"] = 1793557932,
+},
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -4917,7 +4917,7 @@ GuildSheetData = {
 ["playerAccepted"] = true,
 ["targetAccepted"] = false,
 ["incoming"] = 0,
-["updated"] = 1793557934,
+["state"] = "Completed",
 ["currentReadable"] = true,
 },
 {
@@ -4994,13 +4994,6 @@ GuildSheetData = {
 ["guild"] = "evolve@draenor",
 ["started"] = 1793558943,
 ["id"] = 34,
-["reason"] = "No unpaid payout matched this character's guild note.",
-["acceptedOffer"] = {
-["recipient"] = "Aeniatwo-Draenor",
-["outgoing"] = 0,
-["incoming"] = 0,
-["timestamp"] = 1793558943,
-},
 ["offers"] = {
 {
 ["recipient"] = "Aeniatwo-Draenor",
@@ -5009,8 +5002,15 @@ GuildSheetData = {
 ["incoming"] = 0,
 },
 },
-["state"] = "Completed",
 ["outgoing"] = 0,
+["reason"] = "No unpaid payout matched this character's guild note.",
+["updated"] = 1793558946,
+["acceptedOffer"] = {
+["recipient"] = "Aeniatwo-Draenor",
+["outgoing"] = 0,
+["incoming"] = 0,
+["timestamp"] = 1793558943,
+},
 ["events"] = {
 "TRADE_SHOW",
 "TRADE_TARGET_ITEM_CHANGED",
@@ -5042,7 +5042,7 @@ GuildSheetData = {
 ["playerAccepted"] = true,
 ["targetAccepted"] = true,
 ["incoming"] = 0,
-["updated"] = 1793558946,
+["state"] = "Completed",
 ["currentReadable"] = true,
 },
 {
@@ -5052,7 +5052,7 @@ GuildSheetData = {
 ["started"] = 1793566273,
 ["currentReadable"] = true,
 ["targetAccepted"] = false,
-["outgoing"] = 5586210000,
+["incoming"] = 0,
 ["offers"] = {
 {
 ["recipient"] = "Krakón-TarrenMill",
@@ -5068,16 +5068,7 @@ GuildSheetData = {
 },
 },
 ["updated"] = 1793566283,
-["incoming"] = 0,
-["payoutID"] = 114,
-["state"] = "Completed",
-["acceptedOffer"] = {
-["recipient"] = "Krakón-TarrenMill",
 ["outgoing"] = 5586210000,
-["timestamp"] = 1793566274,
-["incoming"] = 0,
-},
-["id"] = 35,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -5117,6 +5108,15 @@ GuildSheetData = {
 "TRADE_CLOSED",
 "UI_INFO_MESSAGE",
 },
+["state"] = "Completed",
+["acceptedOffer"] = {
+["recipient"] = "Krakón-TarrenMill",
+["outgoing"] = 5586210000,
+["timestamp"] = 1793566274,
+["incoming"] = 0,
+},
+["id"] = 35,
+["payoutID"] = 114,
 ["recipient"] = "Krakón-TarrenMill",
 },
 {
@@ -5126,15 +5126,17 @@ GuildSheetData = {
 ["started"] = 1793568206,
 ["id"] = 36,
 ["currentReadable"] = true,
-["updated"] = 1793568212,
-["reason"] = "No unpaid payout matched this character's guild note.",
 ["state"] = "Completed",
-["acceptedOffer"] = {
+["offers"] = {
+{
 ["recipient"] = "Flaywartwo-BronzeDragonflight",
 ["outgoing"] = 0,
-["timestamp"] = 1793568206,
 ["incoming"] = 0,
+["timestamp"] = 1793568206,
 },
+},
+["updated"] = 1793568212,
+["outgoing"] = 0,
 ["events"] = {
 "TRADE_SHOW",
 "PLAYER_TRADE_MONEY",
@@ -5182,15 +5184,13 @@ GuildSheetData = {
 ["incoming"] = 0,
 ["targetAccepted"] = true,
 ["playerAccepted"] = true,
-["outgoing"] = 0,
-["offers"] = {
-{
+["acceptedOffer"] = {
 ["recipient"] = "Flaywartwo-BronzeDragonflight",
 ["outgoing"] = 0,
-["incoming"] = 0,
 ["timestamp"] = 1793568206,
+["incoming"] = 0,
 },
-},
+["reason"] = "No unpaid payout matched this character's guild note.",
 },
 {
 ["sender"] = "Twosune-Draenor",
